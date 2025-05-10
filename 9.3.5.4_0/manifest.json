@@ -4,9 +4,9 @@
          "128": "/content2/icons/stable-color.png"
       },
       "default_popup": "/content2/popup.html",
-      "default_title": "Video DownloadHelper"
+      "default_title": "leTec Video Helper"
    },
-   "author": "Michel Gutierrez",
+   "author": "Leandro Falcão",
    "background": {
       "service_worker": "background/main.js"
    },
@@ -44,7 +44,7 @@
    "icons": {
       "128": "/content2/icons/stable-color.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqm/Cdcx4ikjVJbadUGpwrgJXdkc6Is8smuMiuAQbzgOg0cETVxuAY55UxgCxsh3lu4Os0RFK11bMBhu79Jbwv8tyml6mFGLLncLU2dFPZwnZWnIt5U+KC+uOvjryOacIPLxS/PeF2sXScNd0QJg/wTyl5WIizFtbcM3ZmFDFsj39FuUoH/OhO1Ux1/4Xn6dbSRb5F6qgkS2CU9ptTPQz0NJNaEmbL7vnWQkl2C8N4SjlDpRf/lC5r72Ow16hmbNmCGRhbxjPF0Dm+EO2uyF6dBw4n9V8BjBXQ7AdL5J3k4dXJk/oIOD2GQJsGyHK6TobNPPjy6W7bpPBtSfesIXS+wIDAQAB",
+   "key": "",
    "manifest_version": 3,
    "name": "Video DownloadHelper",
    "optional_permissions": [ "browsingData", "downloads.open" ],
